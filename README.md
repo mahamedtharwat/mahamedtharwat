@@ -72,6 +72,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Moazosama2004&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahamedtharwat&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
