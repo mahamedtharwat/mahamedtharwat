@@ -25,7 +25,7 @@
   <a href="https://www.facebook.com/profile.php?id=100012410645659&locale=ar_AR" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/mahammed_tharwat_123/" target="_blank">
+  <a href="https://www.instagram.com/mahamed__tharwat/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
