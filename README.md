@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="25" alt="excel logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fmicrosoft-excel-logo-spreadsheet-program-microsoft-office-365-logotype-microsoft-corporation-software-editorial_176029000.htm&psig=AOvVaw0gJat2Uz4z8mL8tEdWqNsv&ust=1729508130995000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj38IDmnIkDFQAAAAAdAAAAABAE  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
   <img width="5" />
