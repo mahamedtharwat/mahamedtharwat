@@ -10,7 +10,6 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 <img align="right" alt="Mohamed Tharwat - Data Analyst" width="360px" hight="360px" src="https://github.com/mahamedtharwat/mahamedtharwat/blob/c17260bf50b506c6a85522bdba01ffb36e14a76d/Modern%20Data%20Analyst%20Workspace.png"/>
 
 <br>
-<br>
   
 ### 🧐 More About Me:
 
