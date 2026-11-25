@@ -2,6 +2,7 @@
 I'm passionate about transforming raw data into meaningful insights and actionable business decisions. I work with data to discover trends, identify patterns, solve business problems, and create interactive dashboards that support data-driven decisions. I'm continuously improving my analytical skills and building practical projects to solve real-world business problems.
 
 
+<img align="right" width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/94b0d257-d341-4514-9826-302769e4f18e" />
 
 <br>
 
