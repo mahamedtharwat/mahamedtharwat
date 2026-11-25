@@ -1,13 +1,10 @@
-## Hey 👋, I'm Mohamed Tharwat
+## ### 📊 I'm Mohamed Tharwat, a Data Analyst.
+I'm passionate about transforming raw data into meaningful insights and actionable business decisions. I work with data to discover trends, identify patterns, solve business problems, and create interactive dashboards that support data-driven decisions. I'm continuously improving my analytical skills and building practical projects to solve real-world business problems.
 <a href='https://www.linkedin.com/in/mohamed-tharwat-039609271/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 <img width="1254" height="1254" alt="Modern Data Analyst Workspace" src="https://github.com/user-attachments/assets/4852be68-4880-4d60-9bb1-d3d32f813b4d" />
-
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
