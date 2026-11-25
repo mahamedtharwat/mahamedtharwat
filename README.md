@@ -12,15 +12,14 @@ I'm passionate about transforming raw data into meaningful insights and actionab
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 📊 Interested in Data Analytics and Business Intelligence.
+- 🔍 Passionate about exploring data and discovering meaningful insights.
+- 📈 Building interactive dashboards and reports using Power BI.
+- 🐍 Using Python for data analysis and visualization.
+- 🗄️ Using SQL to extract, clean, and analyze data.
+- 📑 Working with Excel for data cleaning, analysis, and reporting.
+- 🌱 Continuously learning and improving my analytical skills.
+- 🎯 Focused on turning complex data into clear business insights.
 
 <br>
 
