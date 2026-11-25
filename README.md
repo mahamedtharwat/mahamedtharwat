@@ -8,9 +8,7 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 <img align="right" alt="Mohamed Tharwat - Data Analyst" width="360px" hight="360px" src="https://github.com/mahamedtharwat/mahamedtharwat/blob/c17260bf50b506c6a85522bdba01ffb36e14a76d/Modern%20Data%20Analyst%20Workspace.png"/>
-
 <br>
-  
 ### 🧐 More About Me:
 
 - 📊 Interested in Data Analytics and Business Intelligence.
