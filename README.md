@@ -25,66 +25,19 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 <br>
 
 ### 🔨 Languages and Tools:
-
-<!-- Programming Languages -->
-<a href="https://www.python.org/" target="_blank">
-  <img align="left" alt="Python" height="42px" src="https://cdn.simpleicons.org/python/3776AB"/>
-</a>
-
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img align="left" alt="SQL Server" height="42px" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927"/>
-</a>
-
-<!-- Data Analysis Libraries -->
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img align="left" alt="Pandas" height="42px" src="https://cdn.simpleicons.org/pandas/150458"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-  <img align="left" alt="NumPy" height="42px" src="https://cdn.simpleicons.org/numpy/013243"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-  <img align="left" alt="Matplotlib" height="42px" src="https://cdn.simpleicons.org/plotly/3F4F75"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-  <img align="left" alt="Seaborn" height="42px" src="https://cdn.simpleicons.org/seaborn/4C72B0"/>
-</a>
-
-<!-- Business Intelligence -->
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img align="left" alt="Power BI" height="42px" src="https://cdn.simpleicons.org/powerbi/F2C811"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank">
-  <img align="left" alt="Tableau" height="42px" src="https://cdn.simpleicons.org/tableau/E97627"/>
-</a>
-
-<a href="https://lookerstudio.google.com/" target="_blank">
-  <img align="left" alt="Looker Studio" height="42px" src="https://cdn.simpleicons.org/looker/4285F4"/>
-</a>
-
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="left" alt="MySQL" height="42px" src="https://cdn.simpleicons.org/mysql/4479A1"/></a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img align="left" alt="PostgreSQL" height="42px" src="https://cdn.simpleicons.org/postgresql/4169E1"/></a>
-<!-- Microsoft Excel -->
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-  <img align="left" alt="Excel" height="42px" src="https://cdn.simpleicons.org/microsoftexcel/217346"/></a>
-<!-- Development & Analysis Environment -->
-<a href="https://jupyter.org/" target="_blank">
-  <img align="left" alt="Jupyter" height="42px" src="https://cdn.simpleicons.org/jupyter/F37626"/></a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img align="left" alt="VS Code" height="42px" src="https://cdn.simpleicons.org/visualstudiocode/007ACC"/></a>
-<a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="Git" height="42px" src="https://cdn.simpleicons.org/git/F05032"/></a>
-<a href="https://github.com/" target="_blank">
-  <img align="left" alt="GitHub" height="42px" src="https://cdn.simpleicons.org/github/181717"/>
-</a>
-
-
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <br>
 
 
