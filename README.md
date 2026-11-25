@@ -5,9 +5,8 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-<img width="1254" height="1254" alt="Modern Data Analyst Workspace" src="https://github.com/user-attachments/assets/4852be68-4880-4d60-9bb1-d3d32f813b4d" />
+<img align="right" width="360" height="360" alt="Modern Data Analyst Workspace" src="https://github.com/user-attachments/assets/4852be68-4880-4d60-9bb1-d3d32f813b4d" />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
