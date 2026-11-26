@@ -33,11 +33,14 @@ I'm passionate about transforming raw data into meaningful insights and actionab
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahamedtharwat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamedtharwat&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahamedtharwat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+       width="49%" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahamedtharwat&layout=compact&theme=tokyonight&hide_border=true"
+       width="49%" height="180" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=mahamedtharwat&theme=tokyonight&hide_border=true" />
-</p>  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahamedtharwat&theme=tokyonight&hide_border=true"
+       width="98%" height="180" />
+</p>
